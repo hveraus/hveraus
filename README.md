@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<!--
-**hveraus/hveraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🎓 I graduated from Univsersity of Queensland, Brisbane, Australia.
+- 🔭 I’m currently working on SSW.Rules.Content
+- 📫 Find me at https://www.ssw.com.au/people/ken-shi
+- 🌱 I’m currently learning video editing
+- 🎥 I'm making videos for FireUserGroup https://fireusergroup.com/
 - 📫 How to reach me: kenshi@ssw.com.au
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I'm a designer with a accounting degree
 
 [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=hveraus&theme=dark)](https://github.com/hveraus/github-readme-stats)
