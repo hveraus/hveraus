@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning video editing
 - 🎥 I'm making videos for FireUserGroup https://fireusergroup.com/
 - 📫 How to reach me: kenshi@ssw.com.au
-- ⚡ I'm a designer with a accounting degree
+- ⚡ I'm a designer with an accounting degree
 
 [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=hveraus&theme=dark)](https://github.com/hveraus/github-readme-stats)
